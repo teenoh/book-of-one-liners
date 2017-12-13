@@ -4,7 +4,6 @@ title: Swap Variables
 permalink: /Python/swap-variables
 ---
 
-# Swap Variables
 Easily swap the values of two variables without using a temporary/extra variable.
 
 ## Init
