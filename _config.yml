@@ -6,4 +6,5 @@ twitter_username: nicholaskajoh
 github_username:  nicholaskajoh
 
 header_pages:
+  - languages/Python.md
   - contribute.md
