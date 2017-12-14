@@ -12,4 +12,4 @@ Have a one-liner you want to share? Contribute to this project by following the 
 - Commit and start a Pull Request (PR). Each PR must contain only one one-liner.
 - The PR would be reviewed and merged ASAP!
   
-If you find any code errors or typos, you can send a PR to correct it. Also, if you want any UI changes to be effected, [start an Issue](https://github.com/nicholaskajoh/book-of-one-liners/issues).
+If you find any code errors or typos, you can send a PR to correct it. Also, if you want any UI changes to be effected, you can [start an Issue](https://github.com/nicholaskajoh/book-of-one-liners/issues).
