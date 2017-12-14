@@ -2,4 +2,4 @@
 layout: default
 ---
 
-# JavaScript One-liners
+# JavaScript
