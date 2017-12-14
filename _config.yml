@@ -6,7 +6,7 @@ twitter_username: nicholaskajoh
 github_username:  nicholaskajoh
 
 header_pages:
-  - languages/Python.md
-  - languages/JavaScript.md
-  - languages/Java.md
+  - language/Python.md
+  - language/JavaScript.md
+  - language/Java.md
   - contribute.md
