@@ -9,4 +9,5 @@ header_pages:
   - language/Python.md
   - language/JavaScript.md
   - language/Java.md
+  - languages.md
   - contribute.md
