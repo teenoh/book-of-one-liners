@@ -2,5 +2,5 @@
 layout: default
 ---
 
-# Python One-liners
+# Python
 - [Swap Variables]({{ "/Python/swap-variables" | relative_url }})
