@@ -2,4 +2,4 @@
 layout: default
 ---
 
-# Java One-liners
+# Java
